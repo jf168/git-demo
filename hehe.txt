@@ -18,4 +18,5 @@ Modify at Server 06-03  03 20:52
 A user add
 B user add
 
+A user add again
 B user add 2nd time
