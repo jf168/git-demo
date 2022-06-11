@@ -20,3 +20,5 @@ B user add
 
 A user add again
 B user add 2nd time
+
+C user add 1st time
